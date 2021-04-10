@@ -11,7 +11,7 @@ An `example.py` file shows some of the stuff you can do with it
 
 Here are some exampes generated from the word lists files:
 
-`Boss_SW`:
+`Boss_SW`
 
 ```
 Janrariel
