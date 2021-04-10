@@ -9,7 +9,7 @@ Words for the English language are in `EN`, words for French in `FR`, with a sin
 
 An `example.py` file shows some of the stuff you can do with it
 
-Here are some exampes generated from that file:
+Here are some exampes generated from the world files:
 
 `Boss_SW`:
 
