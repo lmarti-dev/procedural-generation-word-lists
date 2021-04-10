@@ -1,0 +1,22 @@
+Solid
+Crystal
+Liquid
+Fluid
+Gas
+Superfluid
+Supersolid
+Boiling
+Freezing
+Melting
+Solid
+Amorphous
+Crystalline
+Quasi-crystal
+Liquid crystal
+Degenerate
+Quantum spin Hall state
+Bose–Einstein condensate
+Superfluid
+Supersolid
+Plasma
+Strongly symmetric

@@ -1,0 +1,16 @@
+Rekrut
+Gefreiter
+Obergefreiter
+Squad
+Korporal
+Corporal
+Wachtmeister
+Sergeant
+Oberwachtmeister
+Leutnant
+Oberleutnant
+Major
+Oberstleutnant
+Oberst
+Fachoffizier
+Divisionär

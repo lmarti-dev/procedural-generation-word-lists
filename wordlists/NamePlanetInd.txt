@@ -1,0 +1,56 @@
+accommodations
+accounting
+advertising
+aerospace
+agriculture & agribusiness
+air transportation
+apparel & accessories
+auto
+banking
+beauty & cosmetics
+biotechnology
+chemical
+communications
+computer
+construction
+consulting
+consumer products
+education
+electronics
+employment
+energy
+entertainment & recreation
+fashion
+financial services
+fine arts
+food & beverage
+green technology
+health
+information
+information technology
+insurance
+journalism & news
+legal services
+manufacturing
+media & broadcasting
+medical devices & supplies
+mining
+motion pictures & video
+music
+pharmaceutical
+public administration
+public relations
+publishing
+rail
+real estate
+retail
+service
+sports
+technology
+telecommunications
+tourism
+transportation
+travel
+utilities
+video game
+web services

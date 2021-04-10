@@ -1,0 +1,65 @@
+Arming sword
+Broadsword
+Claymore
+Falchionor
+Katana
+Longsword
+Rapier
+Shortsword
+Ulfberht
+Zweihander
+Gladius
+Battle axe
+Club
+Flail
+Mace
+Flanged mace
+Pernach
+Shestopyor
+Maul
+Morning star
+Quarterstaff
+War hammer
+Bec de Corbin
+Horseman's pick
+Bludgeon
+Ahlspiess
+Bardiche
+Bill
+Glaive
+Guisarme
+Halberd
+Lance
+Lochaber Axe
+Lucerne hammer
+Man catcher
+Military fork
+Partisan
+Pike
+Plançon a picot
+Ranseur
+Sovnya
+Spetum
+Swordstaff
+Voulge
+War-scythe
+War hammer
+Bow
+Longbow
+English longbow
+Recurve bow
+Mongol bow
+Crossbow
+Arbalest
+Ballista
+Repeating crossbow
+Sling
+Throwing weapons
+Francisca
+Nzappa zap
+Chakram
+Culverin
+Hand cannon
+Musket
+Throwing Spear
+Shuriken
