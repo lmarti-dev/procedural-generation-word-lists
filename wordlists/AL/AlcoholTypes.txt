@@ -1,0 +1,36 @@
+absinthe
+acquavite
+anisette
+apple brandy
+applejack
+aquavit
+armagnac
+brandy
+cabernet sauvingon
+calvados
+champagne
+chardonnay
+chartreuse
+cognac
+feldschlösschen
+gin
+grappa
+island malt
+jaegermeister
+kirsch
+malibu
+merlot
+ouzo
+pastis
+pinot noir
+prosecco
+rum
+sambuca
+sauvignon blanc
+schnapps
+syrah
+tequila
+vodka
+whiskey
+whisky
+wildkirsch

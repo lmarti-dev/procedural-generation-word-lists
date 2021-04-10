@@ -1,0 +1,27 @@
+abjuration
+alchemy
+apportation
+artifice
+binding magic
+biothaumaturgy
+blood magic
+charm magic
+conjuration magic
+divination
+elemental magic
+enchantment
+evocation
+functional magic
+healing magic
+illusion
+invocation
+magical tradition
+meta-magic
+nature magic
+necromancy
+scrying
+summon magic
+thaumatology
+thaumaturgy
+transformation
+ward magic

@@ -1,0 +1,26 @@
+alpine grasslands
+arctic-alpine deserts
+bogs
+cool temperate desert scrubs
+elfin woodlands
+mangrove swamps
+montane rainforests
+needle-leaved forests
+salt marshs
+savannas
+temperate deciduous forests
+temperate evergreen forests
+temperate fresh-water swamp forests
+temperate giant rainforests
+temperate grasslands
+temperate shrublands
+temperate woodlands
+thorn forests and woodlands
+thorn scrubs
+tropical deserts
+tropical fresh-water swamp forests
+tropical rainforests
+tropical seasonal rainforests
+tundras
+warm-temperate deserts
+wetlands

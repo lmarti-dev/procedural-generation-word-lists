@@ -1,0 +1,15 @@
+amulet
+anklet
+armlet
+bangle
+bracelet
+breastplate
+broche
+carcanet
+chatelaine
+choker
+earring
+fascinator
+hairpin
+hatpin
+ring

@@ -1,0 +1,16 @@
+bar
+brewpub
+cantina
+garden
+hall
+inn
+izakaya
+joint
+micropub
+nightclub
+palace
+pub
+saloon
+shop
+tavern
+tied house

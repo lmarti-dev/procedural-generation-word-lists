@@ -1,4 +1,0 @@
-Nord
-Sud
-Est
-Ouest

@@ -1,0 +1,16 @@
+corporal
+divisionär
+fachoffizier
+gefreiter
+korporal
+leutnant
+major
+obergefreiter
+oberleutnant
+oberst
+oberstleutnant
+oberwachtmeister
+rekrut
+sergeant
+squad
+wachtmeister

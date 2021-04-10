@@ -1,0 +1,50 @@
+acteurs
+actuaires
+ambulanciers
+anesthésistes
+architectes
+athlètes
+avocats
+biologistes
+camionneurs
+charpentier menuisiers
+chirurgiens
+coiffeuses
+comptables
+comédiens
+concepteurs de jeux vidéos
+criminologues
+dentistes
+designer de modes
+designer d’intérieurs
+enquêteurs
+enseignants
+globe trotteurs
+hygiéniste dentaires
+infirmières
+infographistes
+ingénieurs civil
+ingénieurs en informatique
+inhalothérapeutes
+intervenants en toxicomanies
+journalistes
+massothérapeutes
+musiciens
+mécaniciens
+médecins
+pharmaciens
+photographes
+physiothérapeutes
+pilotes
+plombiers
+policiers
+pompiers
+professeurs
+psychologues
+pédiatres
+radiologues
+technologues en radio-oncologie
+travailleurs sociaux
+vétérinaires
+écrivains
+éducatrices spécialisées
