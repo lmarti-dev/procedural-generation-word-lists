@@ -1,232 +1,424 @@
-Codeine
-Captain Cody
-Cody
-Lean
-Schoolboy
-Sizzurp
-Purple Drank
-Doors & Fours
-Loads
-Pancakes and Syrup
-Fentany
-Duragesic
-Actiq
-Sublimaze
-Apache
-China Girl
-China White
-Dance Fever
-Friend
-Good-fella
-Jackpot
-Murder 8
-Tango and Cash
-TNT
-Heroin
-H
-Smack
-Dope
-China White
-Horse
-Skag
-Junk
-Black Tar
-Big H
-Brown Sugar
-Mud
-Dragon
-Boy
-Mexican Brown
-Thunder
-Skunk
-Hydrocodone
-Dihydrocodeinone
-Vicodin
-Lortab
-Lorcet
-Vike
-Watsons
-Watson-387
-Vics
-Vicos
-Hydros
-Lorris
-Fluff
-Scratch
-Norco
-Idiot Pills
-Tabs
+codeine
+captain cody
+cody
+lean
+schoolboy
+sizzurp
+purple drank
+doors & fours
+loads
+pancakes and syrup
+fentany
+duragesic
+actiq
+sublimaze
+apache
+china girl
+china white
+dance fever
+friend
+good-fella
+jackpot
+murder 8
+tango and cash
+tnt
+heroin
+smack
+dope
+china white
+horse
+skag
+junk
+black tar
+big h
+brown sugar
+mud
+dragon
+boy
+mexican brown
+thunder
+skunk
+hydrocodone
+dihydrocodeinone
+vicodin
+lortab
+lorcet
+vike
+watsons
+watson-387
+vics
+vicos
+hydros
+lorris
+fluff
+scratch
+norco
+idiot pills
+tabs
 357s
-Hydromorphone
-Dilaudid
-D
-Dillies
-Footballs
-Juice
-Smack
-Kratom
-Herbal Speedball
-Biak-biak
-Ketum Kahuam
-Ithang
-Thom
-Meperidine
-Demerol
-Demmies
-Morphine
-Kadian
-Avinza
-MS Contin
-Duramorph
-Roxanol
-M
-Miss Emma
-Monkey
-White Stuff
-Oxycodone
-OxyContin
-Percodan
-Percocet
-O.C.
-Oxycet
-Oxycotton
-Oxy
-Hillbilly Heroin
-Percs
-O
-Ox
-Blue
+hydromorphone
+dilaudid
+dillies
+footballs
+juice
+smack
+kratom
+herbal speedball
+biak-biak
+ketum kahuam
+ithang
+thom
+meperidine
+demerol
+demmies
+morphine
+kadian
+avinza
+ms contin
+duramorph
+roxanol
+miss emma
+monkey
+white stuff
+oxycodone
+oxycontin
+percodan
+percocet
+o.c.
+oxycet
+oxycotton
+oxy
+hillbilly heroin
+percs
+ox
+blue
 512s
-Kickers
-Killers
-Oxymorphone
-Opana
-Biscuits
-Blue Heaven
-Blues
-Mrs. O
-O Bomb
-Octagone
-Stop Signs
-Amphetamine
-Dextroamphetamine
-Adderall
-Addys
-Uppers
-Beans
-Black Beauties
-Pep Pills
-Speed
-Dex-ies
-Zing
-Study Buddies
-Smart Pills
-Cocaine
-Coke
-Blow
-Rock
-Crack
-Yayo
-Snow
-Sniff
-Sneeze
-White
-Nose Candy
-Bernice
-Toot
-Line
-Dust
-Flake
-Ecstasy
-MDMA
-X
-E
-XTC
-Molly
-Rolls
-Hug
-Hug Drug
-Love Drug
-Lover’s Speed
-Beans
-Adam
-Eve
-Clarity
-Moon Rocks
-Happy Pill
-Dancing Shoes
-Scooby Snacks
-Candy
-Peace
-Uppers
-Khat
-Abyssinian Tea
-African Salad
-Catha
-Chat
-Kat
-Oat
-Methamphetamine
-Desoxyn
-Crystal
-Meth
-Cristy
-Tina
-Crank
-Crissy
-Tweak
-Glass
-Ice
-Shards
-Go
-Whizz
-Chalk
-Speed
-Methylphenidate
-Ritalin
-Concerta
-Vitamin R
-R-ball
-Rids
-Rit
-Diet Coke
-Kiddie Cocaine
-Kiddie Coke
-Skippy
-Pineapple
-Kibbles and Bit
-Skittles
-Smarties
-Poor Man’s Cocaine
-Synthetic Cathinones
-Bath Salts
-Cloud 9
-Vanilla Sky
-White Lightning
-Bloom
-Scarface
-Bliss
-Drone
-Energy-1
-Meow Meow
-Pure Ivory
-Blue Silk
-Stardust
-Lunar Wave
-Wicked X
-Synthetic Marijuana
-Spice
-K2
-K2 Drug
-K3 Drug
-Bliss
-Black Mamba
-Yucatan Fire
-Skunk
-Genie
-Bombay Blue
-Solar Flare
-Zohai
-Joker
-Kush
-Kronic
+kickers
+killers
+oxymorphone
+opana
+biscuits
+blue heaven
+blues
+mrs. o
+o bomb
+octagone
+stop signs
+amphetamine
+dextroamphetamine
+adderall
+addys
+uppers
+beans
+black beauties
+pep pills
+speed
+dex-ies
+zing
+study buddies
+smart pills
+cocaine
+coke
+blow
+rock
+crack
+yayo
+snow
+sniff
+sneeze
+white
+nose candy
+bernice
+toot
+line
+dust
+flake
+ecstasy
+mdma
+xtc
+molly
+rolls
+hug
+hug drug
+love drug
+lover's speed
+beans
+adam
+eve
+clarity
+moon rocks
+happy pill
+dancing shoes
+scooby snacks
+candy
+peace
+uppers
+khat
+abyssinian tea
+african salad
+catha
+chat
+kat
+oat
+methamphetamine
+desoxyn
+crystal
+meth
+cristy
+tina
+crank
+crissy
+tweak
+glass
+ice
+shards
+go
+whizz
+chalk
+speed
+methylphenidate
+ritalin
+concerta
+vitamin r
+r-ball
+rids
+rit
+diet coke
+kiddie cocaine
+kiddie coke
+skippy
+pineapple
+kibbles and bit
+skittles
+smarties
+poor man's cocaine
+synthetic cathinones
+bath salts
+cloud 9
+vanilla sky
+white lightning
+bloom
+scarface
+bliss
+drone
+energy-1
+meow meow
+pure ivory
+blue silk
+stardust
+lunar wave
+wicked x
+synthetic marijuana
+spice
+k2
+k2 drug
+k3 drug
+bliss
+black mamba
+yucatan fire
+skunk
+genie
+bombay blue
+solar flare
+zohai
+joker
+kush
+kronic
+barbiturates
+nembutal
+barbs
+phennies
+red birds
+reds
+tooies
+yellow jackets
+yellows
+benzodiazepines
+xanax
+valium
+klonopin
+xannies
+bars
+z-bars
+zanbars
+handlebars
+planks
+bricks
+ben-zos
+blue footballs
+upjohn
+school bus
+bicycle parts
+yellow boys
+white boys
+white girls
+flunitrazepam
+rohypnol
+circles
+data rape drug
+forget-me pill
+la rocha
+lunch money
+mexican valium
+mind eraser
+pingus
+r2
+reynolds
+rib
+roach
+roaches
+roachies
+roapies
+roofies
+rope
+row-shay
+ruffies
+trip-and-fall
+wolfies
+ghb
+xyrem
+georgia home boy
+goop
+grievous bodiy harm
+liquid ectasy
+liquid x
+soap
+scoop
+hallucinogens
+dissociatives
+ayahuasca
+aya
+yagé
+hoasca
+dextromethorphan
+cough syrups
+dexies
+drex
+robo
+rojo
+red devils
+poor man's ecstasy
+orange crush
+tussin
+velvet
+triple c
+drank
+purple drank
+sizzurp
+dmtdmt
+dimitri
+ketamine
+ketalar
+ket
+special k
+vitamin k
+green k
+super c
+super acid
+special la coke
+jet
+purple
+kit kat
+cat valium
+honey oil
+lsd
+acid
+lucy
+lucy in the sky with diamonds
+cid
+tabs
+doses
+blotter
+california sunshine
+yellow sunshine
+window pane
+battery acid
+dots
+looney toons
+blue heaven
+superman
+cubes
+mescaline
+peyote
+buttons
+cactus
+mesc
+mushrooms
+psilocyibin
+magic mushrooms
+shrooms
+boomers
+caps
+mushies
+buttons
+magics
+blue meanies
+liberty caps
+cubes
+liberties
+pcpangel dust
+ozone
+rocket fuel
+love boat
+embalming fluid
+hog
+superweed
+wack
+wet
+salvia
+magic mint
+maria pastora
+sally-d
+shepherdess' herb
+diviner's sage
+additional drugs
+inhalants
+markers
+glues
+cleaners
+huff
+poppers
+moon gas
+snappers
+bold
+rush
+air blast
+glad
+hippie crack
+oz
+discorama
+whiteout
+poor man's pot
+nitrous oxide
+whippets
+nitrous
+laughing gas
+marijuana
+cannabis
+weed
+pot
+hashish
+hash
+green
+bud
+grass
+trees
+reefer
+herb
+mary jane
+ganja
+hemp
+dope
+chronic
+kush
+sinsemilla
+purple haze
+skunk
+steroids
+oxandrin
+anadrol
+depotestosterone
+juice
+gym candy
+pumpers
+roids
