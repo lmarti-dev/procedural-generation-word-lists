@@ -2,7 +2,8 @@ Alignment
 Ambient environment
 Amplify
 Antifragile
-Artisan/artisanal
+Artisan
+Artisanal
 At the end of the day
 Break through the clutter
 Bring to the table
@@ -96,7 +97,8 @@ Bizmeth
 Brick-and-mortar
 Business process outsourcing
 Buzzword compliant
-Building capabilities/Capability building
+Building capabilities
+Capability building
 Co-opetition
 Come-to-Jesus moment
 Content marketing
@@ -232,7 +234,8 @@ DevOps
 Digital divide
 Digital literacy
 Digital Remastering
-Digital Rights Management- also known as DRM.
+Digital Rights Management
+DRM
 Digital signage
 Disruptive Technologies
 Document management
@@ -291,7 +294,8 @@ Scalability
 Skeuomorphic
 Social bookmarking
 Social software
-SDN- Software defined Networking
+SDN
+Software defined Networking
 SPA
 Single Pane-of-Glass
 Spam
