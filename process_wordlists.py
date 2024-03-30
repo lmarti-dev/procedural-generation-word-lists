@@ -8,6 +8,7 @@ def process_fpath(fpath):
     lines = fstream.read()
     fstream.close()
     lines_out = re.sub(r"^ +| +$|^\n", "", lines, flags=re.MULTILINE)
+    lines_out = re.sub(r"\r", "", lines_out, flags=re.MULTILINE)
     lines_out_lower = lines_out.lower()
     out = io.open(fpath, "w+", encoding="utf8")
     out.write(lines_out_lower)
