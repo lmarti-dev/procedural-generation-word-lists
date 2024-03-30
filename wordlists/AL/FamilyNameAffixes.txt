@@ -3,53 +3,36 @@ Al
 Bet
 Bint
 El
-
-
 Ter
 Der
-
-
 Aït
-At/Ath
-
-
+At
+Ath
 Ter
 Van
-VanDe
-VanDen
-VanDer
-VanHet
+Van De
+Van Den
+Van Der
+Van Het
 Van't
-
-
 von
 zu
-
-
 Bath
 bat
 Ben
 bin
 ibn
-
-
 Del
 Degli
 Della
 Di
-
-
 A
-
-
 Ab
 Ap
 Ferch
 Verch
 Verch
 Erch
-
-
 Af
 Ālam
 Bar
@@ -85,4 +68,3 @@ Ua
 Pour
 Te
 Tre
-war
